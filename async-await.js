@@ -1,4 +1,3 @@
-// import { reject, resolve } from "bluebird";
 
 async function logName(name) {
     console.log(name + "Param");
